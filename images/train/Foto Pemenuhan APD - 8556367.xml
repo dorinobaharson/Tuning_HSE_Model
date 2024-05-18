@@ -1,0 +1,50 @@
+<annotation>
+	<folder>Part 1 (Khukuh)</folder>
+	<filename>Foto Pemenuhan APD - 8556367.jpeg</filename>
+	<path>D:\tbig-labeling-dataset\Part 1 (Khukuh)\Foto Pemenuhan APD - 8556367.jpeg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>480</width>
+		<height>640</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>HELM</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>298</xmin>
+			<ymin>304</ymin>
+			<xmax>380</xmax>
+			<ymax>372</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>ROMPI</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>210</xmin>
+			<ymin>296</ymin>
+			<xmax>295</xmax>
+			<ymax>387</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>TAMBANG_SLING</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>146</xmin>
+			<ymin>165</ymin>
+			<xmax>254</xmax>
+			<ymax>275</ymax>
+		</bndbox>
+	</object>
+</annotation>

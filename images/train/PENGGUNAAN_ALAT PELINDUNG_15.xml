@@ -1,0 +1,38 @@
+<annotation>
+	<folder>Jatim</folder>
+	<filename>IMG-20230726-WA0066.jpg</filename>
+	<path>C:\Users\User\Downloads\Jatim (1)\Jatim\IMG-20230726-WA0066.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>1200</width>
+		<height>1600</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>PENGGUNAAN_HELM</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>652</xmin>
+			<ymin>568</ymin>
+			<xmax>769</xmax>
+			<ymax>650</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>PENGGUNAAN_SARUNG_TANGAN</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>501</xmin>
+			<ymin>791</ymin>
+			<xmax>570</xmax>
+			<ymax>881</ymax>
+		</bndbox>
+	</object>
+</annotation>

@@ -1,0 +1,38 @@
+<annotation>
+	<folder>PERALATAN KERJA</folder>
+	<filename>PERALATAN_KERJA_32.jpg</filename>
+	<path>C:\Users\Wildan\Downloads\IMAGES_DATASET\PERALATAN KERJA\PERALATAN_KERJA_32.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>2400</width>
+		<height>3200</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>TANG_AMPERE</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>256</xmin>
+			<ymin>1167</ymin>
+			<xmax>736</xmax>
+			<ymax>2440</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>EARTH_GROUNDING_TESTER</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>756</xmin>
+			<ymin>1493</ymin>
+			<xmax>1949</xmax>
+			<ymax>2440</ymax>
+		</bndbox>
+	</object>
+</annotation>

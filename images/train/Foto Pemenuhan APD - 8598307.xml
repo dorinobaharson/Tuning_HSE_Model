@@ -1,0 +1,38 @@
+<annotation>
+	<folder>Kondisi APD</folder>
+	<filename>Foto Pemenuhan APD - 8598307.jpeg</filename>
+	<path>C:\Users\USER\Pictures\TBIG_labelling\Kondisi APD\Foto Pemenuhan APD - 8598307.jpeg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>480</width>
+		<height>640</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>SEPATU</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>346</xmin>
+			<ymin>353</ymin>
+			<xmax>467</xmax>
+			<ymax>519</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>HELM</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>238</xmin>
+			<ymin>361</ymin>
+			<xmax>345</xmax>
+			<ymax>498</ymax>
+		</bndbox>
+	</object>
+</annotation>

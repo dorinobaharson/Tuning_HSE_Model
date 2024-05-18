@@ -1,0 +1,38 @@
+<annotation>
+	<folder>Jatim</folder>
+	<filename>1691395196835.jpg</filename>
+	<path>C:\Users\User\Downloads\Fall Arrest System\Jatim\1691395196835.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>960</width>
+		<height>1280</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>PENGGUNAAN_HELM</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>429</xmin>
+			<ymin>19</ymin>
+			<xmax>632</xmax>
+			<ymax>205</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>PENGGUNAAN_TAMBANG_SLING</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>513</xmin>
+			<ymin>411</ymin>
+			<xmax>624</xmax>
+			<ymax>603</ymax>
+		</bndbox>
+	</object>
+</annotation>

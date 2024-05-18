@@ -1,0 +1,65 @@
+item {
+  id: 1
+  name: 'PENGGUNAAN_HELM'
+}
+
+item {
+  id: 2
+  name: 'PENGGUNAAN_SEPATU'
+}
+
+item {
+  id: 3
+  name: 'PENGGUNAAN_SARUNG_TANGAN'
+}
+
+item {
+  id: 4
+  name: 'PENGGUNAAN_ROMPI'
+}
+
+item {
+  id: 5
+  name: 'HELM'
+}
+
+item {
+  id: 6
+  name: 'ROMPI'
+}
+
+item {
+  id: 7
+  name: 'TAMBANG_SLING'
+}
+
+item {
+  id: 8
+  name: 'SEPATU'
+}
+
+item {
+  id: 9
+  name: 'SARUNG_TANGAN'
+}
+
+item {
+  id: 10
+  name: 'TANG_AMPERE'
+}
+
+item {
+  id: 11
+  name: 'EARTH_GROUNDING_TESTER'
+}
+
+item {
+  id: 12
+  name: 'RAMBU_KESELAMATAN'
+}
+
+item {
+  id: 13
+  name: 'PENGGUNAAN_TAMBANG_SLING'
+}
+

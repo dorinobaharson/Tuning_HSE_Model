@@ -1,0 +1,26 @@
+<annotation>
+	<folder>Jatim</folder>
+	<filename>WhatsApp Image 2023-08-12 at 16.45.32.jpeg</filename>
+	<path>C:\Users\User\Downloads\Jatim (1)\Jatim\WhatsApp Image 2023-08-12 at 16.45.32.jpeg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>960</width>
+		<height>1280</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>PENGGUNAAN_SARUNG_TANGAN</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>688</xmin>
+			<ymin>456</ymin>
+			<xmax>737</xmax>
+			<ymax>570</ymax>
+		</bndbox>
+	</object>
+</annotation>

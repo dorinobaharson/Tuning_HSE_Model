@@ -1,0 +1,38 @@
+<annotation>
+	<folder>Jatim</folder>
+	<filename>PENGGUNAAN_ALAT PELINDUNG_47.jpeg</filename>
+	<path>C:\Users\Dorino\OneDrive - Universitas Diponegoro\Documents\Kuliah\Semester 6\Bangkit Machine Learning\ML HSE\Model Mandiri\images\validation\PENGGUNAAN_ALAT PELINDUNG_47.jpeg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>960</width>
+		<height>1280</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>PENGGUNAAN_ROMPI</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>441</xmin>
+			<ymin>620</ymin>
+			<xmax>535</xmax>
+			<ymax>801</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>PENGGUNAAN_SEPATU</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>512</xmin>
+			<ymin>1014</ymin>
+			<xmax>572</xmax>
+			<ymax>1088</ymax>
+		</bndbox>
+	</object>
+</annotation>

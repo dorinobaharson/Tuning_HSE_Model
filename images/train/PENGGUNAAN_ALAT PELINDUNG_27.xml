@@ -1,0 +1,38 @@
+<annotation>
+	<folder>Jatim</folder>
+	<filename>photo1691559622 (3).jpeg</filename>
+	<path>C:\Users\User\Downloads\Jatim (1)\Jatim\photo1691559622 (3).jpeg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>600</width>
+		<height>800</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>PENGGUNAAN_SARUNG_TANGAN</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>383</xmin>
+			<ymin>297</ymin>
+			<xmax>459</xmax>
+			<ymax>350</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>PENGGUNAAN_SEPATU</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>356</xmin>
+			<ymin>677</ymin>
+			<xmax>399</xmax>
+			<ymax>769</ymax>
+		</bndbox>
+	</object>
+</annotation>

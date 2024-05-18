@@ -1,0 +1,26 @@
+<annotation>
+	<folder>train</folder>
+	<filename>RAMBU KESELAMATAN 96.jpg</filename>
+	<path>/home/viky/Documents/Machine-Learning/TBIG-MachineLearning/HSE_Object_Detection/datasets/train/RAMBU KESELAMATAN 96.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>660</width>
+		<height>1087</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>RAMBU_KESELAMATAN</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>195</xmin>
+			<ymin>359</ymin>
+			<xmax>543</xmax>
+			<ymax>806</ymax>
+		</bndbox>
+	</object>
+</annotation>

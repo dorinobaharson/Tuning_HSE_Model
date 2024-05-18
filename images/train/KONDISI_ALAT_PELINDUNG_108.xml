@@ -1,0 +1,26 @@
+<annotation>
+	<folder>KONDISI_APD_2</folder>
+	<filename>KONDISI_ALAT_PELINDUNG_108.jpeg</filename>
+	<path>/Users/user/Desktop/IMAGES_DATASET/KONDISI_APD_2/KONDISI_ALAT_PELINDUNG_108.jpeg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>864</width>
+		<height>1152</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>SEPATU</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>40</xmin>
+			<ymin>441</ymin>
+			<xmax>740</xmax>
+			<ymax>867</ymax>
+		</bndbox>
+	</object>
+</annotation>

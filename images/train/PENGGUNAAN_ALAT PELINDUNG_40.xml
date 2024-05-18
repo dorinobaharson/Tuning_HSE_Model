@@ -1,0 +1,26 @@
+<annotation>
+	<folder>Jatim</folder>
+	<filename>TimePhoto_20230814_152617.jpg</filename>
+	<path>C:\Users\User\Downloads\Jatim (1)\Jatim\TimePhoto_20230814_152617.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>1728</width>
+		<height>2304</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>PENGGUNAAN_SEPATU</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>567</xmin>
+			<ymin>1814</ymin>
+			<xmax>755</xmax>
+			<ymax>2078</ymax>
+		</bndbox>
+	</object>
+</annotation>

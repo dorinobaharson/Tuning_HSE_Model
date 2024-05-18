@@ -1,0 +1,50 @@
+<annotation>
+	<folder>Jatim</folder>
+	<filename>WhatsApp Image 2023-08-07 at 12.37.40 (2).jpeg</filename>
+	<path>C:\Users\User\Downloads\Jatim (1)\Jatim\WhatsApp Image 2023-08-07 at 12.37.40 (2).jpeg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>1200</width>
+		<height>1600</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>PENGGUNAAN_HELM</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>498</xmin>
+			<ymin>260</ymin>
+			<xmax>616</xmax>
+			<ymax>382</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>PENGGUNAAN_ROMPI</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>493</xmin>
+			<ymin>428</ymin>
+			<xmax>631</xmax>
+			<ymax>745</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>PENGGUNAAN_SEPATU</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>489</xmin>
+			<ymin>1056</ymin>
+			<xmax>567</xmax>
+			<ymax>1144</ymax>
+		</bndbox>
+	</object>
+</annotation>

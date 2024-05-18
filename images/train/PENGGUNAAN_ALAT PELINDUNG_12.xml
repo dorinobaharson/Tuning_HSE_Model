@@ -1,0 +1,38 @@
+<annotation>
+	<folder>Jatim</folder>
+	<filename>IMG_20230808_113246.jpg</filename>
+	<path>C:\Users\User\Downloads\Jatim (1)\Jatim\IMG_20230808_113246.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>3120</width>
+		<height>4160</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>PENGGUNAAN_HELM</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>1534</xmin>
+			<ymin>502</ymin>
+			<xmax>1967</xmax>
+			<ymax>837</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>PENGGUNAAN_SARUNG_TANGAN</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>2061</xmin>
+			<ymin>2374</ymin>
+			<xmax>2212</xmax>
+			<ymax>2723</ymax>
+		</bndbox>
+	</object>
+</annotation>

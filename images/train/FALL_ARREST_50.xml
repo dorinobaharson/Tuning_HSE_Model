@@ -1,0 +1,26 @@
+<annotation>
+	<folder>Jatim</folder>
+	<filename>TimePhoto_20230802_131303.jpg</filename>
+	<path>C:\Users\User\Downloads\Fall Arrest System\Jatim\TimePhoto_20230802_131303.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>3000</width>
+		<height>4000</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>PENGGUNAAN_TAMBANG_SLING</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>908</xmin>
+			<ymin>1419</ymin>
+			<xmax>1358</xmax>
+			<ymax>2810</ymax>
+		</bndbox>
+	</object>
+</annotation>
